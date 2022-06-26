@@ -7,6 +7,8 @@ https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/in
 #EXTINF:-1 , CANAL 13
 https://clubtv.link/24jun/j2424/lista4.php?c=767&f=.m3u8
 #EXTINF:-1 , TELEFE
+#EXTINF:-1 group-title="AR", CANAL 9
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
 http://tv.teleclub.xyz/live/ABRIL_02/TELEFE/index.m3u8
 #EXTINF:-1 group-title="DEPORTES", TNT SPORT
 http://edge3-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
