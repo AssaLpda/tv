@@ -1,0 +1,75 @@
+#EXTM3U
+ 
+#EXTINF:-1 , TYC SPORT
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
+#EXTINF:-1 , TYC SPORT Play
+https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index_11.m3u8
+#EXTINF:-1 , CANAL 13
+http://186.124.122.226/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
+#EXTINF:-1 , TELEFE
+http://tv.teleclub.xyz/live/ABRIL_02/TELEFE/index.m3u8
+#EXTINF:-1 , TNT SPORT
+http://edge3-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+#EXTINF:-1 , FOX SPORT PREMIUM
+http://186.124.122.226/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+#EXTINF:-1 , FOX2 SPORT PREMIUM2
+https://dlx1rvhnuclfo.cloudfront.net/hls/2/index.m3u8?gfh
+#EXTINF:-1 , ESPN Premium
+https://edge3-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD-avc1_1499968=10003-mp4a_145200_spa=20001.m3u8
+#EXTINF:-1 , Cartoon Network
+http://tv.teleclub.xyz/live/ABRIL_02/CARTOON/index.m3u8
+#EXTINF:-1 , DISCOVERY
+http://tv.teleclub.xyz/live/ABRIL_01/DISCOVERY/index.m3u8
+#EXTINF:-1 , HISTORY
+http://tv.teleclub.xyz/live/ABRIL_01/HISTORY/index.m3u8
+#EXTINF:-1 , ANIMAL PLANET
+http://tv.teleclub.xyz/live/ABRIL_01/ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 , STAR CHANEL
+http://tv.teleclub.xyz/live/ABRIL_01/STAR/index.m3u8
+#EXTINF:-1 , STUDIO UNIVERSAL
+http://tv.teleclub.xyz/live/ABRIL_01/STUDIO_UNIVERSAL/index.m3u8
+#EXTINF:-1 , TNT
+http://tv.teleclub.xyz/live/ABRIL_01/TNT/index.m3u8
+#EXTINF:-1 , TNT SERIES
+http://tv.teleclub.xyz/live/ABRIL_01/TNT_SERIES/index.m3u8
+#EXTINF:-1 , CINEMAX
+http://tv.teleclub.xyz/live/ABRIL_01/CINEMAX/index.m3u8
+#EXTINF:-1 , SONY
+http://tv.teleclub.xyz/live/ABRIL_01/SONY/index.m3u8
+#EXTINF:-1 , CINECANAL
+http://tv.teleclub.xyz/live/ABRIL_01/CINECANAL/index.m3u8
+#EXTINF:-1 , HBO
+http://tv.teleclub.xyz/live/ABRIL_01/HBO/index.m3u8
+#EXTINF:-1 , HBO 2
+http://tv.teleclub.xyz/live/ABRIL_01/HBO2/index.m3u8
+#EXTINF:-1 , HBO PLUS
+http://tv.teleclub.xyz/live/ABRIL_01/HBO_PLUS/index.m3u8
+#EXTINF:-1 , GOLDEN EDGE
+http://tv.teleclub.xyz/live/ABRIL_01/GOLDEN_EDGE/index.m3u8
+#EXTINF:-1 , SPACE
+http://tv.teleclub.xyz/live/ABRIL_01/SPACE/index.m3u8
+#EXTINF:-1 , DIRECTV
+http://tv.teleclub.xyz/live/ABRIL_01/DIRECTV/index.m3u8
+#EXTINF:-1 , DIRECTV SPORT
+http://tv.teleclub.xyz/live/ABRIL_01/DIRECTV_2/index.m3u8
+#EXTINF:-1 , ESPN
+http://tv.teleclub.xyz/live/ABRIL_01/ESPN_SUR/index.m3u8
+#EXTINF:-1 , ESPN 2
+http://tv.teleclub.xyz/live/ABRIL_01/ESPN2_SUR/index.m3u8
+#EXTINF:-1 , ESPN 3
+http://tv.teleclub.xyz/live/ABRIL_01/ESPN3_SUR/index.m3u8
+#EXTINF:-1 , FOX SPORT
+http://tv.teleclub.xyz/live/ABRIL_01/FOXSPORTS_SUR/index.m3u8
+#EXTINF:-1 , FOX SPORT 2
+http://tv.teleclub.xyz/live/ABRIL_01/FOXSPORTS2_SUR/index.m3u8
+#EXTINF:-1 , LOS SIMPSONS 24/7
+http://tv.teleclub.xyz/live/ABRIL_00/SIMPSONS_1/index.m3u8
+#EXTINF:-1 , LOS SIMPSONS 24/7 2
+http://tv.teleclub.xyz/live/ABRIL_00/SIMPSONS_2/index.m3u8
+#EXTINF:-1 , EL CHAVO 24/7
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
+#EXTINF:-1 , CANAL LAS ESTRELLAS
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+ 
+ 
+ 
