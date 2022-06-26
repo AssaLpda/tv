@@ -1,11 +1,11 @@
 #EXTM3U
- 
+
 #EXTINF:-1 , TYC SPORT
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_1.m3u8
 #EXTINF:-1 , TYC SPORT Play
 https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index_11.m3u8
 #EXTINF:-1 , CANAL 13
-http://186.124.122.226/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
+https://clubtv.link/24jun/j2424/lista4.php?c=767&f=.m3u8
 #EXTINF:-1 , TELEFE
 http://tv.teleclub.xyz/live/ABRIL_02/TELEFE/index.m3u8
 #EXTINF:-1 , TNT SPORT
@@ -62,6 +62,20 @@ http://tv.teleclub.xyz/live/ABRIL_01/ESPN3_SUR/index.m3u8
 http://tv.teleclub.xyz/live/ABRIL_01/FOXSPORTS_SUR/index.m3u8
 #EXTINF:-1 , FOX SPORT 2
 http://tv.teleclub.xyz/live/ABRIL_01/FOXSPORTS2_SUR/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HBO Family
+http://clubtv.link/24jun/j2424/lista1.php?c=a0cq&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HBO MUNDI
+http://clubtv.link/24jun/j2424/lista1.php?c=a0bx&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HBO POP
+http://clubtv.link/24jun/j2424/lista1.php?c=a0cv&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HBO Plus
+http://clubtv.link/24jun/j2424/lista1.php?c=a0cs&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HBO Signature
+http://clubtv.link/24jun/j2424/lista1.php?c=a0ct&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", HBO XTREME
+http://clubtv.link/24jun/j2424/lista1.php?c=a0cr&f=.m3u8
+#EXTINF:-1 group-title="TV PREMIUM", STAR CHANNEL
+http://clubtv.link/24jun/j2424/lista1.php?c=a0b2&f=.m3u8
 #EXTINF:-1 , LOS SIMPSONS 24/7
 http://tv.teleclub.xyz/live/ABRIL_00/SIMPSONS_1/index.m3u8
 #EXTINF:-1 , LOS SIMPSONS 24/7 2
@@ -70,6 +84,11 @@ http://tv.teleclub.xyz/live/ABRIL_00/SIMPSONS_2/index.m3u8
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 #EXTINF:-1 , CANAL LAS ESTRELLAS
 https://estrellatv-roku.amagi.tv/playlist.m3u8
- 
- 
- 
+#EXTINF:-1 , DBZ 24/7
+https://clubtv.link/24jun/j2424/lista4.php?c=67&f=.m3u8
+#EXTINF:-1 , DBZ GT 24/7
+https://clubtv.link/24jun/j2424/lista4.php?c=520&f=.m3u8
+#EXTINF:-1 , DBZ SUPER 24/7
+https://clubtv.link/24jun/j2424/lista4.php?c=424&f=.m3u8
+#EXTINF:-1 , DBZ 24/7
+https://clubtv.link/24jun/j2424/lista4.php?c=329&f=.m3u8
